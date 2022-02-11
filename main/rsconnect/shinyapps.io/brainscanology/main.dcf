@@ -1,0 +1,11 @@
+name: main
+title:
+username:
+account: brainscanology
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5242546
+bundleId: 5353084
+url: https://brainscanology.shinyapps.io/main/
+when: 1639097415.85933
+lastSyncTime: 1639097415.85935

@@ -1,0 +1,5 @@
+library(shiny)
+source('test.r', local = TRUE)
+shinyApp(ui = ui, server = server)
+#library(rsconnect)
+#deployApp()
